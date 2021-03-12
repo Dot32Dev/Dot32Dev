@@ -4,4 +4,4 @@ I'm a 15 year old currently learning Lua in my spare time! Check out my released
 
 I first started making games on [scratch.mit.edu](scratch.mit.edu/users/dot32) when i was 9 years old, and have decided to try step it up with a little more serious programming. I've made a crappy website ( [dot32.netlify.app](dot32.netlify.app) ) and i've released my first game, which i am super proud of :D
 
-If you would like to contact me, message me through discord by adding Dot32#2572
+If you would like to contact me, message me through my discord by adding Dot32#2572
