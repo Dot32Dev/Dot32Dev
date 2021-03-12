@@ -1,5 +1,7 @@
-### Hi there ✌️
+### Hello! ✌️
 
-Currently learning Lua in my spare time! Check out my released game Tiny Tank that i made in the Love2D framework!
+I'm a 15 year old currently learning Lua in my spare time! Check out my released game [Tiny Tank](dot32.itch.io) that i made in the Love2D framework!
 
-Note that before coincatch i created a repo for a website, but the whole thing ended up being a distaster in that i couldnt remove folders of files and i decided to delete it. If i'd know any better i would have just made it private so as to keep the commits still visable 😅
+I first started making games on [scratch.mit.edu](scratch.mit.edu/users/dot32) when i was 9 years old, and have decided to try step it up with a little more serious programming. I've made a crappy website ( [dot32.netlify.app](dot32.netlify.app) ) and i've released my first game, which i am super proud of :D
+
+If you would like to contact me, message me through discord by adding Dot32#2572
