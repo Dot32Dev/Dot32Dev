@@ -6,4 +6,4 @@ I first started making games on [scratch.mit.edu](scratch.mit.edu/users/dot32) w
 
 If you would like to contact me, message me through my discord by adding Dot32#2572
 
-Listen to the song I made on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that im also quite proud of, currently sat on 130+ listens from last time I checked
+Listen to the song I made on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that im also quite proud of, currently sat on 130+ listens from last time I checked 👌 
