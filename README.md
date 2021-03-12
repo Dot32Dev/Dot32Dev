@@ -1,4 +1,4 @@
-### Hello! ✌️
+### Hey! ✌️
 
 I'm a 15 year old currently learning Lua in my spare time! Check out my released game [Tiny Tank](dot32.itch.io) that i made in the Love2D framework!
 
