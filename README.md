@@ -2,7 +2,7 @@
 A 15 year old learning Lua. I started making games on [scratch.mit.edu](scratch.mit.edu/users/dot32) when I was 9 years old, and im only now really stepping it up.
 
 - Check out my offically released game, [Tiny Tank](dot32.itch.io)!
-- Check out my crappy website ([dot32.netlify.app](dot32.netlify.app))
+- Check out my crappy website ( [dot32.netlify.app](dot32.netlify.app) )
 - Listen to the song I released on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that im also quite proud of, currently sat on 130+ listens from last time I checked 👌 
 
 Contact me through discord Dot32#2572
