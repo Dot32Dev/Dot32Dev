@@ -5,7 +5,7 @@ A 15 year old learning Lua. I started making games on [scratch.mit.edu](https://
 - Check out my crappy website ([dot32.netlify.app](https://dot32.netlify.app/index.html))
 - Listen to the song I released on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that im also quite proud of, currently sat on 130+ listens from last time I checked 👌 
 
-Contact me through discord Dot32#2572
+Contact me through discord `Dot32#2572`
 <!---
 ### Hey! ✌️
 
