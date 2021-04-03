@@ -7,4 +7,4 @@ A 15 year old learning Lua. I started making games on [scratch.mit.edu](https://
 
 Contact me through discord Dot32#1186
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dot32IsCool)](https://github.com/Dot32IsCool/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dot32IsCool?theme=radical)](https://github.com/Dot32IsCool/github-readme-stats)
