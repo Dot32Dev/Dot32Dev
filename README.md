@@ -6,3 +6,5 @@ A 15 year old learning Lua. I started making games on [scratch.mit.edu](https://
 - Listen to the song I released on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that im also quite proud of, currently sat on 130+ listens from last time I checked 👌 
 
 Contact me through discord Dot32#1186
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dot32)](https://github.com/Dot32IsCool/github-readme-stats)
