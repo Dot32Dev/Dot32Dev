@@ -1,4 +1,4 @@
-### Hei ✌️ <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white"/>
+### Hei ✌️ <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white"/> <img alt="Affinity Designer" src="https://img.shields.io/badge/affinity%20desginer%20-%231B72BE.svg?&style=flat&logo=affinity-designer&logoColor=white"/> <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text%20-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important"/>
 A 15 year old learning Lua. I started making games on [scratch.mit.edu](https://scratch.mit.edu/users/Dot32/) when I was 9 years old, and im only now really stepping it up.
 
 - Check out my offically released game, [Tiny Tank](https://dot32.itch.io/tiny-tank)!
