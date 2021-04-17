@@ -9,4 +9,4 @@ Contact me through discord Dot32#1186
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dot32IsCool)](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white"/>
+<img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white"/>
