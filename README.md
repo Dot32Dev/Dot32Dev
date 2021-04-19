@@ -1,5 +1,6 @@
 ### Hei ✌️ 
-A 15 year old learning Lua. I started making games on [scratch.mit.edu](https://scratch.mit.edu/users/Dot32/) when I was 9 years old, and im only now really stepping it up. I drew my avatar :>
+A 15 year old learning Lua. I started making games on [scratch.mit.edu](https://scratch.mit.edu/users/Dot32/) when I was 9 years old, and im only now really stepping it up. 
+I drew my avatar :>
 
 - Check out my offically released game, [Tiny Tank](https://dot32.itch.io/tiny-tank)!
 - Check out my crappy website ([dot32.netlify.app](https://dot32.netlify.app/index.html))
