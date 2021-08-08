@@ -3,7 +3,7 @@ A 16 year old learning Lua. I started making games on [scratch.mit.edu](https://
 
 - Check out my offically released game, [Tiny Tank](https://dot32.itch.io/tiny-tank)!
 - Check out my awesome website, [dot32.dev](https://dot32.dev)!
-- Listen to the song I released on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that im also quite proud of, currently sat on 130+ listens from last time I checked 👌 
+- Listen to the song I released on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that im also quite proud of, currently sat on 150+ listens from last time I checked 👌 
 
 Contact me through discord, **Dot32#1186**
 
