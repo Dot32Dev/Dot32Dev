@@ -3,7 +3,7 @@ A 17 year old currently learning [Rust](https://www.rust-lang.org/). I started m
 
 - Check out my offically released game, [Tiny Tank](https://dot32.itch.io/tiny-tank)!
 - Check out my (out of date) website, [dot32.dev](https://dot32.dev)
-- Listen to the song I released on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that im also quite proud of, currently sat on 150+ listens from last time I checked 👌 
+- Listen to the song I released on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that im also quite proud of, currently sat on 200+ listens from last time I checked 👌 
 
 Contact me through Discord, **Dot32#1186** or [join my discord server!](https://discord.gg/Pswb8khdgQ)
 
