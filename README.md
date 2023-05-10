@@ -1,5 +1,5 @@
 ### Hei ✌️ 
-A 17 year old currently learning [Rust](https://www.rust-lang.org/). I started making games on [scratch.mit.edu](https://scratch.mit.edu/users/Dot32/) when I was 9 years old, and im only now really stepping it up. 
+An 18 year old currently learning [Rust](https://www.rust-lang.org/). I started making games on [scratch.mit.edu](https://scratch.mit.edu/users/Dot32/) when I was 9 years old, and im only now really stepping it up. 
 
 - Check out my offically released game, [Tiny Tank](https://dot32.itch.io/tiny-tank)!
 - Check out my (out of date) website, [dot32.dev](https://dot32.dev)
