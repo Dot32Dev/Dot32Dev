@@ -5,7 +5,7 @@ An 18 year old currently learning [Rust](https://www.rust-lang.org/). I started 
 - Check out my (out of date) website, [dot32.dev](https://dot32.dev)
 - Listen to the song I released on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that im also quite proud of, currently sat on 200+ listens from last time I checked 👌 
 
-Contact me through Discord, **Dot32#1186** or [join my discord server!](https://discord.gg/Pswb8khdgQ)
+If you would like to chat with me, [join my discord server!](https://discord.gg/Pswb8khdgQ)
 
 [![](https://img.shields.io/discord/922185010205822976?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/Pswb8khdgQ)
 
