@@ -1,3 +1,5 @@
+![github banner](https://github.com/Dot32IsCool/Dot32IsCool/assets/61964090/fcb3233c-4033-4af2-8f01-d476d4901178)
+
 ### Hei ✌️ 
 An 18 year old currently learning [Rust](https://www.rust-lang.org/). I started making games on [scratch.mit.edu](https://scratch.mit.edu/users/Dot32/) when I was 9 years old, and im only now really stepping it up. 
 
