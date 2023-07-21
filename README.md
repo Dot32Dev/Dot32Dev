@@ -1,11 +1,11 @@
 ![github banner](https://github.com/Dot32IsCool/Dot32IsCool/assets/61964090/fcb3233c-4033-4af2-8f01-d476d4901178)
 
 # Hey! 
-An 18 year old currently learning [Rust](https://www.rust-lang.org/). A passionate programmer and artist since I was 9 years old.
+An 18 year old currently learning [Rust](https://www.rust-lang.org/). A passionate programmer and artist [since I was 9 years old.](https://scratch.mit.edu/users/Dot32/)
 
 <!-- - Check out my offically released game, [Tiny Tank](https://dot32.itch.io/tiny-tank) -->
 - Check out [Discord Timestamp Generator](https://discordtimestampgenerator.netlify.app/), a website of mine getting up to 80 daily views.
-- Check out my (out of date) website, [dot32.dev](https://dot32.dev), or my work-in-progress remaster at [dot32v5.netlify.app](https://dot32v5.netlify.app).
+- Check out my (out of date) website, [dot32.dev](https://dot32.dev), or my work-in-progress remaster at [dot32v5.netlify.app.](https://dot32v5.netlify.app)
 - Listen to the song my 15 year-old self released on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that acheived upwards of 200 listeners 🎵👌 
 
 If you would like to chat with me, [join my discord server!](https://discord.gg/Pswb8khdgQ) With over 130 members, we are a hangout server for fellow passion programmers. Whether you are an experienced programmer or just interested in gamedev, you are welcome!
