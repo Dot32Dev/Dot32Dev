@@ -1,6 +1,7 @@
-![github banner](https://github.com/Dot32IsCool/Dot32IsCool/assets/61964090/fcb3233c-4033-4af2-8f01-d476d4901178)
+![github banner2](https://github.com/Dot32IsCool/Dot32IsCool/assets/61964090/864e14fb-2bca-4049-801f-e33b4ccb9494)
+<!-- <img alt="github banner2" src="https://github.com/Dot32IsCool/Dot32IsCool/assets/61964090/864e14fb-2bca-4049-801f-e33b4ccb9494" width="100%"/> -->
+# Hey!
 
-# Hey! 
 An 18 year old currently learning Rust. A passionate programmer and artist [since I was 9 years old.](https://scratch.mit.edu/users/Dot32/)
 
 <!-- - Check out my offically released game, [Tiny Tank](https://dot32.itch.io/tiny-tank) -->
