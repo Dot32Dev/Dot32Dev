@@ -1,4 +1,5 @@
 <img alt="github banner2" src="https://github.com/Dot32IsCool/Dot32IsCool/assets/61964090/721baf63-b612-4334-8423-a11a79f469c5" width="100%"/>
+
 # Hey!
 
 An 18 year old currently learning Rust. A passionate programmer and artist [since I was 9 years old.](https://scratch.mit.edu/users/Dot32/)
