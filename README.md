@@ -1,5 +1,4 @@
-![github banner2](https://github.com/Dot32IsCool/Dot32IsCool/assets/61964090/864e14fb-2bca-4049-801f-e33b4ccb9494)
-<!-- <img alt="github banner2" src="https://github.com/Dot32IsCool/Dot32IsCool/assets/61964090/864e14fb-2bca-4049-801f-e33b4ccb9494" width="100%"/> -->
+<img alt="github banner2" src="https://github.com/Dot32IsCool/Dot32IsCool/assets/61964090/721baf63-b612-4334-8423-a11a79f469c5" width="100%"/>
 # Hey!
 
 An 18 year old currently learning Rust. A passionate programmer and artist [since I was 9 years old.](https://scratch.mit.edu/users/Dot32/)
