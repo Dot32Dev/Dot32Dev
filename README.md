@@ -2,7 +2,7 @@
 
 # Hey!
 
-An 18 year old currently learning Rust. A passionate programmer and artist [since I was 9 years old.](https://scratch.mit.edu/users/Dot32/)
+A 19 year old currently learning Rust. A passionate programmer and artist [since I was 9 years old.](https://scratch.mit.edu/users/Dot32/)
 
 <!-- - Check out my offically released game, [Tiny Tank](https://dot32.itch.io/tiny-tank) -->
 - Check out [Discord Timestamp Generator](https://discordtimestampgenerator.netlify.app/), a website of mine getting up to 80 daily views.
