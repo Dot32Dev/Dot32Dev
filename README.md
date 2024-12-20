@@ -1,4 +1,4 @@
-<img alt="github banner2" src="https://github.com/Dot32IsCool/Dot32IsCool/assets/61964090/721baf63-b612-4334-8423-a11a79f469c5" width="100%"/>
+<img alt="github banner2" src="https://github.com/user-attachments/assets/b2d529a0-9da1-4727-9fe9-0d94c4a67778" width="100%"/>
 
 # Hey!
 
