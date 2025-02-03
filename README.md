@@ -9,7 +9,7 @@ A 19 year old currently learning Rust. A passionate programmer and artist [since
 - Check out my remastered website, [dot32.dev](https://dot32.dev)
 - Listen to the song my 15 year-old self released on [soundcloud](https://soundcloud.com/dot32/journey-to-the-clouds) that acheived upwards of 200 listeners 🎵👌 
 
-If you would like to chat with me, [join my discord server!](https://discord.gg/Pswb8khdgQ) With over 130 members, we are a hangout server for fellow passion programmers. Whether you are an experienced programmer or just interested in gamedev, you are welcome!
+If you would like to chat with me, [join my discord server!](https://discord.gg/Pswb8khdgQ) With over 100 members, we are a hangout server for fellow passion programmers. Whether you are an experienced programmer or just interested in gamedev, you are welcome!
 
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/Pswb8khdgQ)](https://discord.gg/https://discord.gg/Pswb8khdgQ)
 <!-- [![](https://img.shields.io/discord/922185010205822976?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/Pswb8khdgQ) -->
