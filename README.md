@@ -2,7 +2,7 @@
 
 # Hey!
 
-I am a self-taught programmer now getting a degree in the field I love. I am enthusiastic about lower level programming and can suffer web development when I have to. 
+I am a self-taught programmer now getting a degree in IT. I am enthusiastic about lower level programming and can suffer web development when I have to. 
 Over the next few years I would like to learn more about low level graphics, compilers, and optimisations. 
 <!-- I started making games when I was [9 years old](https://scratch.mit.edu/users/Dot32/), and 
 <!--A 19 year old currently learning Rust. A passionate programmer and artist [since I was 9 years old.](https://scratch.mit.edu/users/Dot32/) -->
