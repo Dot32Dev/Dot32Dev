@@ -13,11 +13,13 @@
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
 </p> -->
 <p align="center">
-  Chat to me on my <a href=https://discord.gg/https://discord.gg/Pswb8khdgQ>Discord server</a>
+  Chat with me on my <a href=https://discord.gg/https://discord.gg/Pswb8khdgQ>Discord server</a>
+  <br>
+  See what I've done on my <a href=https://dot32.dev/>website</a>
 </p>
-<p align="center">
-  See what i've done on my <a href=https://dot32.dev/>website</a>
-</p>
+<!-- <p align="center">
+  
+</p> -->
 <p align="center">
   <a href=https://discord.gg/https://discord.gg/Pswb8khdgQ>
     <img src=https://dcbadge.limes.pink/api/server/https://discord.gg/Pswb8khdgQ>
