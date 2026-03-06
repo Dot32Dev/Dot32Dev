@@ -1,11 +1,11 @@
-<p align="center">
+<h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dot32_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="dot32_light.svg">
     <img src="dot32_light.svg" height="100">
   </picture>
-</p>
-<hr>
+</h1>
+<!-- <hr> -->
 <!-- <p align="center">
   <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=flate&logo=rust&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/> 
